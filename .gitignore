@@ -4,6 +4,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+*
+!*/
+!.py
+!.c
+!.cpp
+
 # C extensions
 *.so
 
