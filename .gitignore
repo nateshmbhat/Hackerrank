@@ -6,9 +6,9 @@ __pycache__/
 
 *
 !*/
-!.py
-!.c
-!.cpp
+!*.py
+!*.c
+!*.cpp
 
 # C extensions
 *.so
