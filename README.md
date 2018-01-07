@@ -1,2 +1,2 @@
 # Hackerrank
-Solutions to Hackerrank Questions . This Repo mainly contains python codes for the solutions.
+Solutions to Hackerrank Questions . This Repo mainly contains solutions to many of the questions in Hackerrank.
