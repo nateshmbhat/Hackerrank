@@ -1,3 +1,7 @@
 {
-    "python.pythonPath": "C:\\Program Files\\Python35\\python.exe"
+    "python.pythonPath": "C:\\Program Files\\Python35\\python.exe",
+    "files.associations": {
+        "*.ejs": "html",
+        "vector": "cpp"
+    },
 }

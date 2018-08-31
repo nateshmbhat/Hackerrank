@@ -4,13 +4,23 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
+
+        {
+            "type": "java",
+            "name": "Java Debug (Launch)",
+            "request": "launch",
+            "cwd": "${fileDirname}",
+            "console": "integratedTerminal",
+            "stopOnEntry": false,
+            "mainClass": "",
+            "args": ""
+        },
         {
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
             "program": "${fileDirname}/a.exe",
-            "args": [],
+            "args": ["-std=c++"],
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
             "environment": [],
